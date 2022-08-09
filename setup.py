@@ -18,6 +18,6 @@ setuptools.setup(
         "License :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=['sqlalchemy','urllib'],
+    install_requires=['sqlalchemy'],
     python_requires='~=3.6'
 )
